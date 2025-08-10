@@ -1,9 +1,13 @@
  Hi there 👋
 
-👋 Hi, I’m @davutbeytekin\n
+👋 Hi, I’m @davutbeytekin
+
 👀 I’m interested in JavaScript, React.js, and Next.js
-🌱 I’m currently teaching JavaScript, React.js, Next.js and Tailwind CSS.
+
+🌱 I’m currently teaching JavaScript, React.js, Next.js and Tailwind CSS , SASS and Bootstrap 5 .
+
 🎁 Support https://medium.com/@beytekindavut
+
 📫 My personal website is coming soon...
 
 ## 🌐 Socials:
