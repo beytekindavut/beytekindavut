@@ -4,7 +4,7 @@
 
 👀 I’m interested in JavaScript, React.js, and Next.js,Node js,React Native.
 
-🌱 I’m currently teaching JavaScript, React.js, Next.js and Tailwind CSS , SASS and Bootstrap 5 .
+🌱 I’m currently teaching JavaScript, React.js, Tailwind CSS, SASS and Bootstrap 5 .
 
 🎁 Support https://medium.com/@beytekindavut
 
