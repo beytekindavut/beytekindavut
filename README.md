@@ -25,7 +25,8 @@ My name is Davut, I am interested in javascript and all its frameworks.
  ##
  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beytekindavut&show_icons=true&theme=dark&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beytekindavut&theme=dark&langs_count=8)
+
 
 
 <!--
